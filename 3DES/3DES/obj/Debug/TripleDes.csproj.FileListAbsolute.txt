@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\AES-3DES\3DES\3DES\obj\Debug\TripleDes.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\AES-3DES\3DES\3DES\obj\Debug\TripleDes.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\AES-3DES\3DES\3DES\bin\Debug\3DES.exe.config
+C:\Users\Pc\Desktop\AES-3DES\3DES\3DES\bin\Debug\3DES.exe
+C:\Users\Pc\Desktop\AES-3DES\3DES\3DES\bin\Debug\3DES.pdb
+C:\Users\Pc\Desktop\AES-3DES\3DES\3DES\obj\Debug\3DES.exe
+C:\Users\Pc\Desktop\AES-3DES\3DES\3DES\obj\Debug\3DES.pdb

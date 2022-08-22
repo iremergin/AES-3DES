@@ -1,0 +1,14 @@
+C:\Users\Pc\Downloads\CryptographyAESinDotNet-master\CryptographyAESinDotNet-master\AesCrypto\Console\bin\Debug\Console.exe.config
+C:\Users\Pc\Downloads\CryptographyAESinDotNet-master\CryptographyAESinDotNet-master\AesCrypto\Console\bin\Debug\Console.exe
+C:\Users\Pc\Downloads\CryptographyAESinDotNet-master\CryptographyAESinDotNet-master\AesCrypto\Console\bin\Debug\Console.pdb
+C:\Users\Pc\Downloads\CryptographyAESinDotNet-master\CryptographyAESinDotNet-master\AesCrypto\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+C:\Users\Pc\Downloads\CryptographyAESinDotNet-master\CryptographyAESinDotNet-master\AesCrypto\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\CryptographyAESinDotNet-master\CryptographyAESinDotNet-master\AesCrypto\Console\obj\Debug\Console.exe
+C:\Users\Pc\Downloads\CryptographyAESinDotNet-master\CryptographyAESinDotNet-master\AesCrypto\Console\obj\Debug\Console.pdb
+C:\Users\Pc\Desktop\AES\Console\bin\Debug\Console.exe.config
+C:\Users\Pc\Desktop\AES\Console\bin\Debug\Console.exe
+C:\Users\Pc\Desktop\AES\Console\bin\Debug\Console.pdb
+C:\Users\Pc\Desktop\AES\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\AES\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\AES\Console\obj\Debug\Console.exe
+C:\Users\Pc\Desktop\AES\Console\obj\Debug\Console.pdb
